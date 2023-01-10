@@ -1,0 +1,271 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673206580097,858,login,200,OK,rokomari 1-6,text,true,,82795,242,10,10,https://www.rokomari.com/login,363,0,250
+1673206580097,373,login-0,301,Moved Permanently,rokomari 1-6,text,true,,1048,119,10,10,https://rokomari.com/login,363,0,250
+1673206580474,481,login-1,200,OK,rokomari 1-6,text,true,,81747,123,10,10,https://www.rokomari.com/login,263,0,185
+1673206580402,753,login,200,OK,rokomari 1-9,text,true,,82781,242,10,10,https://www.rokomari.com/login,204,0,126
+1673206580402,204,login-0,301,Moved Permanently,rokomari 1-9,text,true,,1038,119,10,10,https://rokomari.com/login,204,0,126
+1673206580607,548,login-1,200,OK,rokomari 1-9,text,true,,81743,123,10,10,https://www.rokomari.com/login,330,0,197
+1673206579726,1478,login,200,OK,rokomari 1-1,text,true,,82779,242,10,10,https://www.rokomari.com/login,733,0,619
+1673206579726,743,login-0,301,Moved Permanently,rokomari 1-1,text,true,,1040,119,10,10,https://rokomari.com/login,733,0,619
+1673206580474,730,login-1,200,OK,rokomari 1-1,text,true,,81739,123,10,10,https://www.rokomari.com/login,257,0,181
+1673206580199,1007,login,200,OK,rokomari 1-7,text,true,,82779,242,10,10,https://www.rokomari.com/login,261,0,148
+1673206580199,271,login-0,301,Moved Permanently,rokomari 1-7,text,true,,1042,119,10,10,https://rokomari.com/login,261,0,148
+1673206580473,733,login-1,200,OK,rokomari 1-7,text,true,,81737,123,10,10,https://www.rokomari.com/login,272,0,192
+1673206580498,904,login,200,OK,rokomari 1-10,text,true,,82777,242,10,10,https://www.rokomari.com/login,217,0,149
+1673206580498,218,login-0,301,Moved Permanently,rokomari 1-10,text,true,,1034,119,10,10,https://rokomari.com/login,217,0,149
+1673206580717,685,login-1,200,OK,rokomari 1-10,text,true,,81743,123,10,10,https://www.rokomari.com/login,391,0,215
+1673206579727,1684,login,200,OK,rokomari 1-2,text,true,,82773,242,10,10,https://www.rokomari.com/login,733,0,622
+1673206579727,743,login-0,301,Moved Permanently,rokomari 1-2,text,true,,1034,119,10,10,https://rokomari.com/login,733,0,622
+1673206580473,938,login-1,200,OK,rokomari 1-2,text,true,,81739,123,10,10,https://www.rokomari.com/login,317,0,210
+1673206580302,1145,login,200,OK,rokomari 1-8,text,true,,82779,242,10,10,https://www.rokomari.com/login,219,0,144
+1673206580302,220,login-0,301,Moved Permanently,rokomari 1-8,text,true,,1042,119,10,10,https://rokomari.com/login,219,0,144
+1673206580522,925,login-1,200,OK,rokomari 1-8,text,true,,81737,123,10,10,https://www.rokomari.com/login,268,0,157
+1673206579998,1516,login,200,OK,rokomari 1-5,text,true,,82779,242,10,10,https://www.rokomari.com/login,462,0,349
+1673206579998,473,login-0,301,Moved Permanently,rokomari 1-5,text,true,,1044,119,10,10,https://rokomari.com/login,462,0,349
+1673206580473,1041,login-1,200,OK,rokomari 1-5,text,true,,81735,123,10,10,https://www.rokomari.com/login,269,0,189
+1673206579802,1758,login,200,OK,rokomari 1-3,text,true,,82779,242,10,10,https://www.rokomari.com/login,658,0,545
+1673206579802,668,login-0,301,Moved Permanently,rokomari 1-3,text,true,,1038,119,10,10,https://rokomari.com/login,658,0,545
+1673206580473,1087,login-1,200,OK,rokomari 1-3,text,true,,81741,123,10,10,https://www.rokomari.com/login,312,0,202
+1673206581156,526,book,200,OK,rokomari 1-9,text,true,,119865,240,10,10,https://www.rokomari.com/book,165,0,0
+1673206581156,165,book-0,301,Moved Permanently,rokomari 1-9,text,true,,1045,118,10,10,https://rokomari.com/book,165,0,0
+1673206581322,360,book-1,200,OK,rokomari 1-9,text,true,,118820,122,10,10,https://www.rokomari.com/book,157,0,0
+1673206579900,1975,login,200,OK,rokomari 1-4,text,true,,82777,242,10,10,https://www.rokomari.com/login,560,0,449
+1673206579900,570,login-0,301,Moved Permanently,rokomari 1-4,text,true,,1034,119,10,10,https://rokomari.com/login,560,0,449
+1673206580475,1400,login-1,200,OK,rokomari 1-4,text,true,,81743,123,10,10,https://www.rokomari.com/login,314,0,202
+1673206580958,918,book,200,OK,rokomari 1-6,text,true,,119859,240,10,10,https://www.rokomari.com/book,180,0,0
+1673206580958,181,book-0,301,Moved Permanently,rokomari 1-6,text,true,,1043,118,10,10,https://rokomari.com/book,180,0,0
+1673206581139,737,book-1,200,OK,rokomari 1-6,text,true,,118816,122,10,10,https://www.rokomari.com/book,117,0,0
+1673206581403,613,book,200,OK,rokomari 1-10,text,true,,119859,240,10,10,https://www.rokomari.com/book,199,0,0
+1673206581403,200,book-0,301,Moved Permanently,rokomari 1-10,text,true,,1039,118,10,10,https://rokomari.com/book,199,0,0
+1673206581603,413,book-1,200,OK,rokomari 1-10,text,true,,118820,122,10,10,https://www.rokomari.com/book,168,0,0
+1673206581208,1422,book,200,OK,rokomari 1-7,text,true,,119869,240,10,10,https://www.rokomari.com/book,194,0,0
+1673206581208,194,book-0,301,Moved Permanently,rokomari 1-7,text,true,,1045,118,10,10,https://rokomari.com/book,194,0,0
+1673206581403,1227,book-1,200,OK,rokomari 1-7,text,true,,118824,122,10,10,https://www.rokomari.com/book,199,0,0
+1673206581206,1471,book,200,OK,rokomari 1-1,text,true,,119865,240,10,10,https://www.rokomari.com/book,196,0,0
+1673206581206,196,book-0,301,Moved Permanently,rokomari 1-1,text,true,,1041,118,10,10,https://rokomari.com/book,196,0,0
+1673206581403,1274,book-1,200,OK,rokomari 1-1,text,true,,118824,122,10,10,https://www.rokomari.com/book,226,0,0
+1673206581683,1676,electronics,200,OK,rokomari 1-9,text,true,,455410,268,10,10,https://www.rokomari.com/electronics?ref=nm,219,0,0
+1673206581683,220,electronics-0,301,Moved Permanently,rokomari 1-9,text,true,,1053,132,10,10,https://rokomari.com/electronics?ref=nm,219,0,0
+1673206581903,1456,electronics-1,200,OK,rokomari 1-9,text,true,,454357,136,10,10,https://www.rokomari.com/electronics?ref=nm,223,0,0
+1673206581412,1989,book,200,OK,rokomari 1-2,text,true,,119859,240,10,10,https://www.rokomari.com/book,231,0,0
+1673206581412,232,book-0,301,Moved Permanently,rokomari 1-2,text,true,,1043,118,10,10,https://rokomari.com/book,231,0,0
+1673206581644,1757,book-1,200,OK,rokomari 1-2,text,true,,118816,122,10,10,https://www.rokomari.com/book,225,0,0
+1673206581561,2195,book,200,OK,rokomari 1-3,text,true,,119855,240,10,10,https://www.rokomari.com/book,190,0,0
+1673206581561,190,book-0,301,Moved Permanently,rokomari 1-3,text,true,,1039,118,10,10,https://rokomari.com/book,190,0,0
+1673206581751,2005,book-1,200,OK,rokomari 1-3,text,true,,118816,122,10,10,https://www.rokomari.com/book,266,0,0
+1673206581515,2250,book,200,OK,rokomari 1-5,text,true,,119861,240,10,10,https://www.rokomari.com/book,174,0,0
+1673206581515,174,book-0,301,Moved Permanently,rokomari 1-5,text,true,,1041,118,10,10,https://rokomari.com/book,174,0,0
+1673206581690,2075,book-1,200,OK,rokomari 1-5,text,true,,118820,122,10,10,https://www.rokomari.com/book,226,0,0
+1673206581447,2324,book,200,OK,rokomari 1-8,text,true,,119869,240,10,10,https://www.rokomari.com/book,239,0,0
+1673206581447,239,book-0,301,Moved Permanently,rokomari 1-8,text,true,,1045,118,10,10,https://rokomari.com/book,239,0,0
+1673206581687,2084,book-1,200,OK,rokomari 1-8,text,true,,118824,122,10,10,https://www.rokomari.com/book,238,0,0
+1673206582017,1868,electronics,200,OK,rokomari 1-10,text,true,,455406,268,10,10,https://www.rokomari.com/electronics?ref=nm,330,0,0
+1673206582017,333,electronics-0,301,Moved Permanently,rokomari 1-10,text,true,,1053,132,10,10,https://rokomari.com/electronics?ref=nm,330,0,0
+1673206582350,1535,electronics-1,200,OK,rokomari 1-10,text,true,,454353,136,10,10,https://www.rokomari.com/electronics?ref=nm,356,0,0
+1673206581876,2954,book,200,OK,rokomari 1-4,text,true,,119865,240,10,10,https://www.rokomari.com/book,221,0,0
+1673206581876,222,book-0,301,Moved Permanently,rokomari 1-4,text,true,,1043,118,10,10,https://rokomari.com/book,221,0,0
+1673206582098,2732,book-1,200,OK,rokomari 1-4,text,true,,118822,122,10,10,https://www.rokomari.com/book,366,0,0
+1673206583360,2346,monihari,200,OK,rokomari 1-9,text,true,,285258,262,10,10,https://www.rokomari.com/monihari?ref=nm,405,0,0
+1673206583360,408,monihari-0,301,Moved Permanently,rokomari 1-9,text,true,,1048,129,10,10,https://rokomari.com/monihari?ref=nm,405,0,0
+1673206583769,1937,monihari-1,200,OK,rokomari 1-9,text,true,,284210,133,10,10,https://www.rokomari.com/monihari?ref=nm,292,0,0
+1673206582678,3834,electronics,200,OK,rokomari 1-1,text,true,,455404,268,10,10,https://www.rokomari.com/electronics?ref=nm,476,0,0
+1673206582678,476,electronics-0,301,Moved Permanently,rokomari 1-1,text,true,,1059,132,10,10,https://rokomari.com/electronics?ref=nm,476,0,0
+1673206583155,3357,electronics-1,200,OK,rokomari 1-1,text,true,,454345,136,10,10,https://www.rokomari.com/electronics?ref=nm,414,0,0
+1673206581877,4681,electronics,200,OK,rokomari 1-6,text,true,,455408,268,10,10,https://www.rokomari.com/electronics?ref=nm,224,0,0
+1673206581877,225,electronics-0,301,Moved Permanently,rokomari 1-6,text,true,,1063,132,10,10,https://rokomari.com/electronics?ref=nm,224,0,0
+1673206582102,4456,electronics-1,200,OK,rokomari 1-6,text,true,,454345,136,10,10,https://www.rokomari.com/electronics?ref=nm,336,0,0
+1673206583887,2711,monihari,200,OK,rokomari 1-10,text,true,,285277,262,10,10,https://www.rokomari.com/monihari?ref=nm,416,0,0
+1673206583887,416,monihari-0,301,Moved Permanently,rokomari 1-10,text,true,,1056,129,10,10,https://rokomari.com/monihari?ref=nm,416,0,0
+1673206584304,2294,monihari-1,200,OK,rokomari 1-10,text,true,,284221,133,10,10,https://www.rokomari.com/monihari?ref=nm,546,0,0
+1673206582630,4617,electronics,200,OK,rokomari 1-7,text,true,,455402,268,10,10,https://www.rokomari.com/electronics?ref=nm,486,0,0
+1673206582630,487,electronics-0,301,Moved Permanently,rokomari 1-7,text,true,,1057,132,10,10,https://rokomari.com/electronics?ref=nm,486,0,0
+1673206583117,4130,electronics-1,200,OK,rokomari 1-7,text,true,,454345,136,10,10,https://www.rokomari.com/electronics?ref=nm,390,0,0
+1673206583402,4271,electronics,200,OK,rokomari 1-2,text,true,,455400,268,10,10,https://www.rokomari.com/electronics?ref=nm,375,0,0
+1673206583402,376,electronics-0,301,Moved Permanently,rokomari 1-2,text,true,,1051,132,10,10,https://rokomari.com/electronics?ref=nm,375,0,0
+1673206583779,3894,electronics-1,200,OK,rokomari 1-2,text,true,,454349,136,10,10,https://www.rokomari.com/electronics?ref=nm,332,0,0
+1673206583772,4861,electronics,200,OK,rokomari 1-8,text,true,,455418,268,10,10,https://www.rokomari.com/electronics?ref=nm,272,0,0
+1673206583772,272,electronics-0,301,Moved Permanently,rokomari 1-8,text,true,,1057,132,10,10,https://rokomari.com/electronics?ref=nm,272,0,0
+1673206584044,4589,electronics-1,200,OK,rokomari 1-8,text,true,,454361,136,10,10,https://www.rokomari.com/electronics?ref=nm,453,0,0
+1673206586513,2285,monihari,200,OK,rokomari 1-1,text,true,,285262,262,10,10,https://www.rokomari.com/monihari?ref=nm,401,0,0
+1673206586513,401,monihari-0,301,Moved Permanently,rokomari 1-1,text,true,,1050,129,10,10,https://rokomari.com/monihari?ref=nm,401,0,0
+1673206586914,1884,monihari-1,200,OK,rokomari 1-1,text,true,,284212,133,10,10,https://www.rokomari.com/monihari?ref=nm,433,0,0
+1673206584831,4019,electronics,200,OK,rokomari 1-4,text,true,,455404,268,10,10,https://www.rokomari.com/electronics?ref=nm,460,0,0
+1673206584831,460,electronics-0,301,Moved Permanently,rokomari 1-4,text,true,,1051,132,10,10,https://rokomari.com/electronics?ref=nm,460,0,0
+1673206585292,3558,electronics-1,200,OK,rokomari 1-4,text,true,,454353,136,10,10,https://www.rokomari.com/electronics?ref=nm,461,0,0
+1673206586560,2331,monihari,200,OK,rokomari 1-6,text,true,,285273,262,10,10,https://www.rokomari.com/monihari?ref=nm,386,0,0
+1673206586560,386,monihari-0,301,Moved Permanently,rokomari 1-6,text,true,,1054,129,10,10,https://rokomari.com/monihari?ref=nm,386,0,0
+1673206586946,1945,monihari-1,200,OK,rokomari 1-6,text,true,,284219,133,10,10,https://www.rokomari.com/monihari?ref=nm,509,0,0
+1673206583757,5135,electronics,200,OK,rokomari 1-3,text,true,,455404,268,10,10,https://www.rokomari.com/electronics?ref=nm,255,0,0
+1673206583757,257,electronics-0,301,Moved Permanently,rokomari 1-3,text,true,,1051,132,10,10,https://rokomari.com/electronics?ref=nm,255,0,0
+1673206584014,4878,electronics-1,200,OK,rokomari 1-3,text,true,,454353,136,10,10,https://www.rokomari.com/electronics?ref=nm,423,0,0
+1673206586599,2893,kids-toys,200,OK,rokomari 1-10,text,true,,260939,310,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,402,0,0
+1673206586599,403,kids-toys-0,301,Moved Permanently,rokomari 1-10,text,true,,1074,153,10,10,https://rokomari.com/product/category/2864/kids-toys-&-games,402,0,0
+1673206587002,2490,kids-toys-1,200,OK,rokomari 1-10,text,true,,259865,157,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,573,0,0
+1673206587673,1840,monihari,200,OK,rokomari 1-2,text,true,,285281,262,10,10,https://www.rokomari.com/monihari?ref=nm,510,0,0
+1673206587673,510,monihari-0,301,Moved Permanently,rokomari 1-2,text,true,,1056,129,10,10,https://rokomari.com/monihari?ref=nm,510,0,0
+1673206588184,1329,monihari-1,200,OK,rokomari 1-2,text,true,,284225,133,10,10,https://www.rokomari.com/monihari?ref=nm,479,0,0
+1673206583767,6325,electronics,200,OK,rokomari 1-5,text,true,,455406,268,10,10,https://www.rokomari.com/electronics?ref=nm,274,0,0
+1673206583767,274,electronics-0,301,Moved Permanently,rokomari 1-5,text,true,,1049,132,10,10,https://rokomari.com/electronics?ref=nm,274,0,0
+1673206584041,6051,electronics-1,200,OK,rokomari 1-5,text,true,,454357,136,10,10,https://www.rokomari.com/electronics?ref=nm,479,0,0
+1673206588892,1247,kids-toys,200,OK,rokomari 1-6,text,true,,260948,310,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,289,0,0
+1673206588892,289,kids-toys-0,301,Moved Permanently,rokomari 1-6,text,true,,1072,153,10,10,https://rokomari.com/product/category/2864/kids-toys-&-games,289,0,0
+1673206589182,957,kids-toys-1,200,OK,rokomari 1-6,text,true,,259876,157,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,352,0,0
+1673206589493,1085,gift-finder-browse,200,OK,rokomari 1-10,text,true,,115389,328,10,10,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,357,0,0
+1673206589493,358,gift-finder-browse-0,301,Moved Permanently,rokomari 1-10,text,true,,1087,162,10,10,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,357,0,0
+1673206589851,727,gift-finder-browse-1,200,OK,rokomari 1-10,text,true,,114302,166,10,10,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,302,0,0
+1673206587248,3392,monihari,200,OK,rokomari 1-7,text,true,,285278,262,10,10,https://www.rokomari.com/monihari?ref=nm,498,0,0
+1673206587248,498,monihari-0,301,Moved Permanently,rokomari 1-7,text,true,,1058,129,10,10,https://rokomari.com/monihari?ref=nm,498,0,0
+1673206587747,2893,monihari-1,200,OK,rokomari 1-7,text,true,,284220,133,10,10,https://www.rokomari.com/monihari?ref=nm,549,0,0
+1673206589514,1228,kids-toys,200,OK,rokomari 1-2,text,true,,260935,310,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,355,0,0
+1673206589514,356,kids-toys-0,301,Moved Permanently,rokomari 1-2,text,true,,1068,153,10,10,https://rokomari.com/product/category/2864/kids-toys-&-games,355,0,0
+1673206589871,871,kids-toys-1,200,OK,rokomari 1-2,text,true,,259867,157,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,360,0,0
+1673206588634,2116,monihari,200,OK,rokomari 1-8,text,true,,285264,262,10,10,https://www.rokomari.com/monihari?ref=nm,384,0,0
+1673206588634,384,monihari-0,301,Moved Permanently,rokomari 1-8,text,true,,1050,129,10,10,https://rokomari.com/monihari?ref=nm,384,0,0
+1673206589018,1732,monihari-1,200,OK,rokomari 1-8,text,true,,284214,133,10,10,https://www.rokomari.com/monihari?ref=nm,354,0,0
+1673206590140,880,gift-finder-browse,200,OK,rokomari 1-6,text,true,,115383,328,10,10,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,438,0,0
+1673206590140,438,gift-finder-browse-0,301,Moved Permanently,rokomari 1-6,text,true,,1085,162,10,10,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,438,0,0
+1673206590579,441,gift-finder-browse-1,200,OK,rokomari 1-6,text,true,,114298,166,10,10,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,330,0,0
+1673206588850,3466,monihari,200,OK,rokomari 1-4,text,true,,285281,262,10,10,https://www.rokomari.com/monihari?ref=nm,258,0,0
+1673206588850,259,monihari-0,301,Moved Permanently,rokomari 1-4,text,true,,1054,129,10,10,https://rokomari.com/monihari?ref=nm,258,0,0
+1673206589109,3207,monihari-1,200,OK,rokomari 1-4,text,true,,284227,133,10,10,https://www.rokomari.com/monihari?ref=nm,989,0,0
+1673206588893,3454,monihari,200,OK,rokomari 1-3,text,true,,285282,262,10,10,https://www.rokomari.com/monihari?ref=nm,292,0,0
+1673206588893,292,monihari-0,301,Moved Permanently,rokomari 1-3,text,true,,1050,129,10,10,https://rokomari.com/monihari?ref=nm,292,0,0
+1673206589186,3161,monihari-1,200,OK,rokomari 1-3,text,true,,284232,133,10,10,https://www.rokomari.com/monihari?ref=nm,944,0,0
+1673206590579,1904,offer,200,OK,rokomari 1-10,text,true,,321217,242,10,10,https://www.rokomari.com/offer,289,0,0
+1673206590579,290,offer-0,301,Moved Permanently,rokomari 1-10,text,true,,1038,119,10,10,https://rokomari.com/offer,289,0,0
+1673206590870,1613,offer-1,200,OK,rokomari 1-10,text,true,,320179,123,10,10,https://www.rokomari.com/offer,384,0,0
+1673206591022,2235,offer,200,OK,rokomari 1-6,text,true,,321233,242,10,10,https://www.rokomari.com/offer,378,0,0
+1673206591022,378,offer-0,301,Moved Permanently,rokomari 1-6,text,true,,1038,119,10,10,https://rokomari.com/offer,378,0,0
+1673206591400,1857,offer-1,200,OK,rokomari 1-6,text,true,,320195,123,10,10,https://www.rokomari.com/offer,881,0,0
+1673206592483,924,search,200,OK,rokomari 1-10,text,true,,89760,292,10,10,https://www.rokomari.com/search?term=humayun+ahmed+book,227,0,0
+1673206592483,229,search-0,301,Moved Permanently,rokomari 1-10,text,true,,1063,144,10,10,https://rokomari.com/search?term=humayun+ahmed+book,227,0,0
+1673206592713,694,search-1,200,OK,rokomari 1-10,text,true,,88697,148,10,10,https://www.rokomari.com/search?term=humayun+ahmed+book,391,0,0
+1673206590641,2818,kids-toys,200,OK,rokomari 1-7,text,true,,260945,310,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,381,0,0
+1673206590641,381,kids-toys-0,301,Moved Permanently,rokomari 1-7,text,true,,1078,153,10,10,https://rokomari.com/product/category/2864/kids-toys-&-games,381,0,0
+1673206591022,2437,kids-toys-1,200,OK,rokomari 1-7,text,true,,259867,157,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,436,0,0
+1673206590751,2867,kids-toys,200,OK,rokomari 1-8,text,true,,260946,310,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,376,0,0
+1673206590751,376,kids-toys-0,301,Moved Permanently,rokomari 1-8,text,true,,1072,153,10,10,https://rokomari.com/product/category/2864/kids-toys-&-games,376,0,0
+1673206591128,2490,kids-toys-1,200,OK,rokomari 1-8,text,true,,259874,157,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,995,0,0
+1673206590101,3714,monihari,200,OK,rokomari 1-5,text,true,,285273,262,10,10,https://www.rokomari.com/monihari?ref=nm,475,0,0
+1673206590101,475,monihari-0,301,Moved Permanently,rokomari 1-5,text,true,,1054,129,10,10,https://rokomari.com/monihari?ref=nm,475,0,0
+1673206590576,3239,monihari-1,200,OK,rokomari 1-5,text,true,,284219,133,10,10,https://www.rokomari.com/monihari?ref=nm,324,0,0
+1673206593258,591,search,200,OK,rokomari 1-6,text,true,,89766,292,10,10,https://www.rokomari.com/search?term=humayun+ahmed+book,258,0,0
+1673206593258,259,search-0,301,Moved Permanently,rokomari 1-6,text,true,,1063,144,10,10,https://rokomari.com/search?term=humayun+ahmed+book,258,0,0
+1673206593517,332,search-1,200,OK,rokomari 1-6,text,true,,88703,148,10,10,https://www.rokomari.com/search?term=humayun+ahmed+book,241,0,0
+1673206592348,1570,kids-toys,200,OK,rokomari 1-3,text,true,,260948,310,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,276,0,0
+1673206592348,276,kids-toys-0,301,Moved Permanently,rokomari 1-3,text,true,,1076,153,10,10,https://rokomari.com/product/category/2864/kids-toys-&-games,276,0,0
+1673206592624,1294,kids-toys-1,200,OK,rokomari 1-3,text,true,,259872,157,10,10,https://www.rokomari.com/product/category/2864/kids-toys-&-games,275,0,0
+1673206593408,810,cart,200,OK,rokomari 1-10,text,true,,143209,240,10,10,https://www.rokomari.com/cart,225,0,0
+1673206593408,225,cart-0,301,Moved Permanently,rokomari 1-10,text,true,,1037,118,10,10,https://rokomari.com/cart,225,0,0
+1673206593633,585,cart-1,200,OK,rokomari 1-10,text,true,,142172,122,10,10,https://www.rokomari.com/cart,303,0,0
+1673206593619,1002,gift-finder-browse,200,OK,rokomari 1-8,text,true,,115387,328,9,9,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,299,0,0
+1673206593619,299,gift-finder-browse-0,301,Moved Permanently,rokomari 1-8,text,true,,1085,162,9,9,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,299,0,0
+1673206593918,703,gift-finder-browse-1,200,OK,rokomari 1-8,text,true,,114302,166,9,9,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,300,0,0
+1673206593460,1191,gift-finder-browse,200,OK,rokomari 1-7,text,true,,115381,328,9,9,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,230,0,0
+1673206593460,230,gift-finder-browse-0,301,Moved Permanently,rokomari 1-7,text,true,,1081,162,9,9,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,230,0,0
+1673206593691,960,gift-finder-browse-1,200,OK,rokomari 1-7,text,true,,114300,166,9,9,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,337,0,0
+1673206592317,2492,kids-toys,200,OK,rokomari 1-4,text,true,,260949,310,9,9,https://www.rokomari.com/product/category/2864/kids-toys-&-games,298,0,0
+1673206592317,299,kids-toys-0,301,Moved Permanently,rokomari 1-4,text,true,,1074,153,9,9,https://rokomari.com/product/category/2864/kids-toys-&-games,298,0,0
+1673206592616,2193,kids-toys-1,200,OK,rokomari 1-4,text,true,,259875,157,9,9,https://www.rokomari.com/product/category/2864/kids-toys-&-games,860,0,0
+1673206593850,997,cart,200,OK,rokomari 1-6,text,true,,143210,240,9,9,https://www.rokomari.com/cart,284,0,0
+1673206593850,284,cart-0,301,Moved Permanently,rokomari 1-6,text,true,,1041,118,9,9,https://rokomari.com/cart,284,0,0
+1673206594135,712,cart-1,200,OK,rokomari 1-6,text,true,,142169,122,9,9,https://www.rokomari.com/cart,306,0,0
+1673206593919,1001,gift-finder-browse,200,OK,rokomari 1-3,text,true,,115391,328,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,310,0,0
+1673206593919,310,gift-finder-browse-0,301,Moved Permanently,rokomari 1-3,text,true,,1087,162,8,8,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,310,0,0
+1673206594230,690,gift-finder-browse-1,200,OK,rokomari 1-3,text,true,,114304,166,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,437,0,0
+1673206585706,9259,kids-toys,200,OK,rokomari 1-9,text,true,,260945,310,8,8,https://www.rokomari.com/product/category/2864/kids-toys-&-games,517,0,0
+1673206585706,517,kids-toys-0,301,Moved Permanently,rokomari 1-9,text,true,,1078,153,8,8,https://rokomari.com/product/category/2864/kids-toys-&-games,517,0,0
+1673206586223,8742,kids-toys-1,200,OK,rokomari 1-9,text,true,,259867,157,8,8,https://www.rokomari.com/product/category/2864/kids-toys-&-games,3218,0,0
+1673206594811,743,gift-finder-browse,200,OK,rokomari 1-4,text,true,,115390,328,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,150,0,0
+1673206594811,153,gift-finder-browse-0,301,Moved Permanently,rokomari 1-4,text,true,,1079,162,8,8,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,150,0,0
+1673206594966,588,gift-finder-browse-1,200,OK,rokomari 1-4,text,true,,114311,166,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,226,0,0
+1673206588798,6799,kids-toys,200,OK,rokomari 1-1,text,true,,260939,310,8,8,https://www.rokomari.com/product/category/2864/kids-toys-&-games,289,0,0
+1673206588798,289,kids-toys-0,301,Moved Permanently,rokomari 1-1,text,true,,1072,153,8,8,https://rokomari.com/product/category/2864/kids-toys-&-games,289,0,0
+1673206589088,6509,kids-toys-1,200,OK,rokomari 1-1,text,true,,259867,157,8,8,https://www.rokomari.com/product/category/2864/kids-toys-&-games,1021,0,0
+1673206590743,5033,gift-finder-browse,200,OK,rokomari 1-2,text,true,,115383,328,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,339,0,0
+1673206590743,339,gift-finder-browse-0,301,Moved Permanently,rokomari 1-2,text,true,,1083,162,8,8,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,339,0,0
+1673206591083,4693,gift-finder-browse-1,200,OK,rokomari 1-2,text,true,,114300,166,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,496,0,0
+1673206593816,2308,kids-toys,200,OK,rokomari 1-5,text,true,,260947,310,8,8,https://www.rokomari.com/product/category/2864/kids-toys-&-games,305,0,0
+1673206593816,306,kids-toys-0,301,Moved Permanently,rokomari 1-5,text,true,,1072,153,8,8,https://rokomari.com/product/category/2864/kids-toys-&-games,305,0,0
+1673206594122,2002,kids-toys-1,200,OK,rokomari 1-5,text,true,,259875,157,8,8,https://www.rokomari.com/product/category/2864/kids-toys-&-games,283,0,0
+1673206594622,1700,offer,200,OK,rokomari 1-8,text,true,,321236,242,8,8,https://www.rokomari.com/offer,259,0,0
+1673206594622,259,offer-0,301,Moved Permanently,rokomari 1-8,text,true,,1042,119,8,8,https://rokomari.com/offer,259,0,0
+1673206594882,1440,offer-1,200,OK,rokomari 1-8,text,true,,320194,123,8,8,https://www.rokomari.com/offer,155,0,0
+1673206594921,1589,offer,200,OK,rokomari 1-3,text,true,,321226,242,8,8,https://www.rokomari.com/offer,166,0,0
+1673206594921,166,offer-0,301,Moved Permanently,rokomari 1-3,text,true,,1042,119,8,8,https://rokomari.com/offer,166,0,0
+1673206595088,1422,offer-1,200,OK,rokomari 1-3,text,true,,320184,123,8,8,https://www.rokomari.com/offer,336,0,0
+1673206594652,1962,offer,200,OK,rokomari 1-7,text,true,,321226,242,8,8,https://www.rokomari.com/offer,269,0,0
+1673206594652,269,offer-0,301,Moved Permanently,rokomari 1-7,text,true,,1040,119,8,8,https://rokomari.com/offer,269,0,0
+1673206594921,1693,offer-1,200,OK,rokomari 1-7,text,true,,320186,123,8,8,https://www.rokomari.com/offer,185,0,0
+1673206595598,1547,gift-finder-browse,200,OK,rokomari 1-1,text,true,,115381,328,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,302,0,0
+1673206595598,303,gift-finder-browse-0,301,Moved Permanently,rokomari 1-1,text,true,,1081,162,8,8,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,302,0,0
+1673206595901,1244,gift-finder-browse-1,200,OK,rokomari 1-1,text,true,,114300,166,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,403,0,0
+1673206594966,2196,gift-finder-browse,200,OK,rokomari 1-9,text,true,,115379,328,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,166,0,0
+1673206594966,169,gift-finder-browse-0,301,Moved Permanently,rokomari 1-9,text,true,,1083,162,8,8,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,166,0,0
+1673206595136,2026,gift-finder-browse-1,200,OK,rokomari 1-9,text,true,,114296,166,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,393,0,0
+1673206595554,1660,offer,200,OK,rokomari 1-4,text,true,,321223,242,8,8,https://www.rokomari.com/offer,301,0,0
+1673206595554,301,offer-0,301,Moved Permanently,rokomari 1-4,text,true,,1044,119,8,8,https://rokomari.com/offer,301,0,0
+1673206595855,1359,offer-1,200,OK,rokomari 1-4,text,true,,320179,123,8,8,https://www.rokomari.com/offer,327,0,0
+1673206596323,1104,search,200,OK,rokomari 1-8,text,true,,89763,292,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,291,0,0
+1673206596323,291,search-0,301,Moved Permanently,rokomari 1-8,text,true,,1065,144,8,8,https://rokomari.com/search?term=humayun+ahmed+book,291,0,0
+1673206596614,813,search-1,200,OK,rokomari 1-8,text,true,,88698,148,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,408,0,0
+1673206595777,1778,offer,200,OK,rokomari 1-2,text,true,,321211,242,8,8,https://www.rokomari.com/offer,305,0,0
+1673206595777,305,offer-0,301,Moved Permanently,rokomari 1-2,text,true,,1040,119,8,8,https://rokomari.com/offer,305,0,0
+1673206596083,1472,offer-1,200,OK,rokomari 1-2,text,true,,320171,123,8,8,https://www.rokomari.com/offer,577,0,0
+1673206596510,1060,search,200,OK,rokomari 1-3,text,true,,89766,292,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,321,0,0
+1673206596510,321,search-0,301,Moved Permanently,rokomari 1-3,text,true,,1067,144,8,8,https://rokomari.com/search?term=humayun+ahmed+book,321,0,0
+1673206596832,738,search-1,200,OK,rokomari 1-3,text,true,,88699,148,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,408,0,0
+1673206596614,1000,search,200,OK,rokomari 1-7,text,true,,89772,292,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,390,0,0
+1673206596614,392,search-0,301,Moved Permanently,rokomari 1-7,text,true,,1075,144,8,8,https://rokomari.com/search?term=humayun+ahmed+book,390,0,0
+1673206597006,608,search-1,200,OK,rokomari 1-7,text,true,,88697,148,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,439,0,0
+1673206596125,1496,gift-finder-browse,200,OK,rokomari 1-5,text,true,,115387,328,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,308,0,0
+1673206596125,310,gift-finder-browse-0,301,Moved Permanently,rokomari 1-5,text,true,,1085,162,8,8,https://rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,308,0,0
+1673206596435,1186,gift-finder-browse-1,200,OK,rokomari 1-5,text,true,,114302,166,8,8,https://www.rokomari.com/giftfinderbrowse/2144?categories=2144&whoms=2141,317,0,0
+1673206597556,560,search,200,OK,rokomari 1-2,text,true,,89772,292,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,83,0,0
+1673206597556,89,search-0,301,Moved Permanently,rokomari 1-2,text,true,,1073,144,8,8,https://rokomari.com/search?term=humayun+ahmed+book,83,0,0
+1673206597646,470,search-1,200,OK,rokomari 1-2,text,true,,88699,148,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,392,0,0
+1673206597215,922,search,200,OK,rokomari 1-4,text,true,,89762,292,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,356,0,0
+1673206597215,356,search-0,301,Moved Permanently,rokomari 1-4,text,true,,1065,144,8,8,https://rokomari.com/search?term=humayun+ahmed+book,356,0,0
+1673206597572,565,search-1,200,OK,rokomari 1-4,text,true,,88697,148,8,8,https://www.rokomari.com/search?term=humayun+ahmed+book,181,0,0
+1673206597146,1477,offer,200,OK,rokomari 1-1,text,true,,321223,242,8,8,https://www.rokomari.com/offer,402,0,0
+1673206597146,402,offer-0,301,Moved Permanently,rokomari 1-1,text,true,,1044,119,8,8,https://rokomari.com/offer,402,0,0
+1673206597549,1074,offer-1,200,OK,rokomari 1-1,text,true,,320179,123,8,8,https://www.rokomari.com/offer,88,0,0
+1673206597571,1085,cart,200,OK,rokomari 1-3,text,true,,143214,240,8,8,https://www.rokomari.com/cart,144,0,0
+1673206597571,151,cart-0,301,Moved Permanently,rokomari 1-3,text,true,,1045,118,8,8,https://rokomari.com/cart,144,0,0
+1673206597723,933,cart-1,200,OK,rokomari 1-3,text,true,,142169,122,8,8,https://www.rokomari.com/cart,470,0,0
+1673206597429,1292,cart,200,OK,rokomari 1-8,text,true,,143212,240,7,7,https://www.rokomari.com/cart,192,0,0
+1673206597429,192,cart-0,301,Moved Permanently,rokomari 1-8,text,true,,1045,118,7,7,https://rokomari.com/cart,192,0,0
+1673206597622,1099,cart-1,200,OK,rokomari 1-8,text,true,,142167,122,7,7,https://www.rokomari.com/cart,327,0,0
+1673206597615,1565,cart,200,OK,rokomari 1-7,text,true,,143204,240,6,6,https://www.rokomari.com/cart,286,0,0
+1673206597615,286,cart-0,301,Moved Permanently,rokomari 1-7,text,true,,1037,118,6,6,https://rokomari.com/cart,286,0,0
+1673206597901,1279,cart-1,200,OK,rokomari 1-7,text,true,,142167,122,6,6,https://www.rokomari.com/cart,521,0,0
+1673206598117,1154,cart,200,OK,rokomari 1-2,text,true,,143206,240,5,5,https://www.rokomari.com/cart,465,0,0
+1673206598117,465,cart-0,301,Moved Permanently,rokomari 1-2,text,true,,1037,118,5,5,https://rokomari.com/cart,465,0,0
+1673206598583,688,cart-1,200,OK,rokomari 1-2,text,true,,142169,122,5,5,https://www.rokomari.com/cart,301,0,0
+1673206598138,1237,cart,200,OK,rokomari 1-4,text,true,,143208,240,4,4,https://www.rokomari.com/cart,477,0,0
+1673206598138,478,cart-0,301,Moved Permanently,rokomari 1-4,text,true,,1043,118,4,4,https://rokomari.com/cart,477,0,0
+1673206598616,759,cart-1,200,OK,rokomari 1-4,text,true,,142165,122,4,4,https://www.rokomari.com/cart,443,0,0
+1673206598624,870,search,200,OK,rokomari 1-1,text,true,,89768,292,3,3,https://www.rokomari.com/search?term=humayun+ahmed+book,432,0,0
+1673206598624,432,search-0,301,Moved Permanently,rokomari 1-1,text,true,,1069,144,3,3,https://rokomari.com/search?term=humayun+ahmed+book,432,0,0
+1673206599056,438,search-1,200,OK,rokomari 1-1,text,true,,88699,148,3,3,https://www.rokomari.com/search?term=humayun+ahmed+book,350,0,0
+1673206597163,2351,offer,200,OK,rokomari 1-9,text,true,,321213,242,3,3,https://www.rokomari.com/offer,395,0,0
+1673206597163,395,offer-0,301,Moved Permanently,rokomari 1-9,text,true,,1044,119,3,3,https://rokomari.com/offer,395,0,0
+1673206597558,1956,offer-1,200,OK,rokomari 1-9,text,true,,320169,123,3,3,https://www.rokomari.com/offer,125,0,0
+1673206597622,2059,offer,200,OK,rokomari 1-5,text,true,,321220,242,3,3,https://www.rokomari.com/offer,312,0,0
+1673206597622,314,offer-0,301,Moved Permanently,rokomari 1-5,text,true,,1044,119,3,3,https://rokomari.com/offer,312,0,0
+1673206597936,1745,offer-1,200,OK,rokomari 1-5,text,true,,320176,123,3,3,https://www.rokomari.com/offer,562,0,0
+1673206599514,332,search,200,OK,rokomari 1-9,text,true,,89770,292,3,3,https://www.rokomari.com/search?term=humayun+ahmed+book,167,0,0
+1673206599514,167,search-0,301,Moved Permanently,rokomari 1-9,text,true,,1071,144,3,3,https://rokomari.com/search?term=humayun+ahmed+book,167,0,0
+1673206599681,165,search-1,200,OK,rokomari 1-9,text,true,,88699,148,3,3,https://www.rokomari.com/search?term=humayun+ahmed+book,75,0,0
+1673206599495,410,cart,200,OK,rokomari 1-1,text,true,,143206,240,3,3,https://www.rokomari.com/cart,185,0,0
+1673206599495,185,cart-0,301,Moved Permanently,rokomari 1-1,text,true,,1037,118,3,3,https://rokomari.com/cart,185,0,0
+1673206599681,224,cart-1,200,OK,rokomari 1-1,text,true,,142169,122,3,3,https://www.rokomari.com/cart,75,0,0
+1673206599682,320,search,200,OK,rokomari 1-5,text,true,,89766,292,2,2,https://www.rokomari.com/search?term=humayun+ahmed+book,72,0,0
+1673206599682,72,search-0,301,Moved Permanently,rokomari 1-5,text,true,,1067,144,2,2,https://rokomari.com/search?term=humayun+ahmed+book,72,0,0
+1673206599754,248,search-1,200,OK,rokomari 1-5,text,true,,88699,148,2,2,https://www.rokomari.com/search?term=humayun+ahmed+book,171,0,0
+1673206599847,307,cart,200,OK,rokomari 1-9,text,true,,143202,240,2,2,https://www.rokomari.com/cart,155,0,0
+1673206599847,155,cart-0,301,Moved Permanently,rokomari 1-9,text,true,,1039,118,2,2,https://rokomari.com/cart,155,0,0
+1673206600003,151,cart-1,200,OK,rokomari 1-9,text,true,,142163,122,2,2,https://www.rokomari.com/cart,71,0,0
+1673206600003,299,cart,200,OK,rokomari 1-5,text,true,,143209,240,1,1,https://www.rokomari.com/cart,68,0,0
+1673206600003,68,cart-0,301,Moved Permanently,rokomari 1-5,text,true,,1043,118,1,1,https://rokomari.com/cart,68,0,0
+1673206600072,230,cart-1,200,OK,rokomari 1-5,text,true,,142166,122,1,1,https://www.rokomari.com/cart,97,0,0
